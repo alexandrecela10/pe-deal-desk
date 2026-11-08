@@ -15,10 +15,12 @@ The skills hand off to each other: the screen feeds the LBO and comps, and all o
 
 ## Install
 
-**As a plugin (recommended).** Push this folder to a GitHub repo, then in Claude Code:
+**Claude Desktop / claude.ai:** see [START-HERE.md](START-HERE.md) — Customize → Plugins → + → Add marketplace from GitHub → `alexandrecela10/pe-deal-desk`.
+
+**Claude Code:**
 
 ```
-/plugin marketplace add <github-user>/pe-deal-desk
+/plugin marketplace add alexandrecela10/pe-deal-desk
 /plugin install pe-deal-desk@pe-deal-desk
 ```
 

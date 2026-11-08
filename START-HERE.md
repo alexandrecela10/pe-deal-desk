@@ -6,10 +6,13 @@ Six private equity skills for Claude. Install once, then just talk to Claude nor
 
 1. Open the **Claude desktop app** (or claude.ai in a browser).
 2. Go to **Settings → Capabilities** and make sure **Code execution and file creation** is switched **on**. (The skills need it to run their calculations.)
-3. In the sidebar, open **Customize → Plugins**, click **Add**, then **Upload plugin**, and choose the file **`pe-deal-desk.zip`**.
-4. Done. You should see **pe-deal-desk** in your plugins list with six skills switched on.
+3. In the sidebar, open **Customize → Plugins**, click **+**, choose **Add marketplace from GitHub**, and enter:
+   `alexandrecela10/pe-deal-desk`
+4. Click **Install** on **pe-deal-desk**. You should see it in your plugins list with six skills switched on.
 
-**If you don't see "Upload plugin":** unzip `individual-skills.zip`, then go to **Customize → Skills**, click **+**, choose **Upload a skill**, and upload each of the six small zip files one at a time.
+**Updates:** when a new version is pushed to GitHub, update the plugin from the same Plugins page.
+
+**If the GitHub option isn't there:** on the GitHub page, click **Code → Download ZIP**, then in **Customize → Plugins** click **+ → Upload plugin** and choose that zip.
 
 ## Use it
 
