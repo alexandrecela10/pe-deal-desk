@@ -41,6 +41,7 @@ python3 skills/portfolio-monitor/scripts/kpi_monitor.py examples/kpis.csv --net-
 - Put your fund's investment criteria in a `criteria.md` in your deal folder; `cim-screen` will read it.
 - Put your house IC template in the deal folder and tell Claude to use it; `ic-memo` follows a house template over its default.
 - Edit the RAG thresholds, sector add-ons or memo structure directly in each `SKILL.md`.
+- Full guide: [CUSTOMISE.md](CUSTOMISE.md).
 
 ## Confidentiality
 
