@@ -1,0 +1,9 @@
+{
+  "name": "pe-deal-desk",
+  "version": "1.0.0",
+  "description": "Private equity deal skills for Claude Code: CIM screening, LBO modelling, comps valuation, diligence planning, IC memos and portfolio monitoring.",
+  "author": {
+    "name": "Alexandre Cela"
+  },
+  "keywords": ["private-equity", "lbo", "valuation", "due-diligence", "investment-memo"]
+}

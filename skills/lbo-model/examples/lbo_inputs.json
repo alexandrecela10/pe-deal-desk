@@ -1,0 +1,23 @@
+{
+  "company": "ExampleCo",
+  "currency": "GBP m",
+  "entry_revenue": 200,
+  "entry_ebitda": 40,
+  "entry_multiple": 10.0,
+  "exit_multiple": 10.0,
+  "exit_year": 5,
+  "revenue_growth": [0.08, 0.08, 0.07, 0.06, 0.05],
+  "ebitda_margin": [0.20, 0.21, 0.22, 0.22, 0.22],
+  "da_pct_revenue": 0.03,
+  "capex_pct_revenue": 0.035,
+  "nwc_pct_revenue": 0.10,
+  "tax_rate": 0.25,
+  "transaction_fees_pct": 0.025,
+  "financing_fees_pct": 0.02,
+  "min_cash": 5,
+  "cash_sweep_pct": 1.0,
+  "debt": [
+    {"name": "Senior TLB", "multiple": 4.0, "rate": 0.085, "amort_pct": 0.01, "sweep": true},
+    {"name": "Second lien", "multiple": 1.0, "rate": 0.11, "amort_pct": 0.0, "sweep": false}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pe-deal-desk",
+  "owner": {
+    "name": "Alexandre Cela"
+  },
+  "plugins": [
+    {
+      "name": "pe-deal-desk",
+      "source": "./",
+      "description": "Private equity deal skills: CIM screening, LBO, comps, diligence, IC memo, portfolio monitoring."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+metric,actual,budget,prior_year,higher_is_better
+Revenue,51.2,54.0,47.9,true
+Gross margin %,38.5,40.0,39.1,true
+EBITDA,9.6,11.0,9.1,true
+Opex,10.1,9.9,9.4,false
+Cash conversion %,82,90,88,true
+DSO (days),58,50,52,false
+Customer churn %,2.1,2.0,2.4,false
+Headcount,412,420,388,

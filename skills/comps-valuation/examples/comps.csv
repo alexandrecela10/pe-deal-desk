@@ -1,0 +1,10 @@
+company,type,ev,revenue,ebitda,ebit,market_cap,net_income
+Peer A,trading,1850,620,140,105,1500,62
+Peer B,trading,920,410,82,60,700,31
+Peer C,trading,2400,900,190,150,2000,88
+Peer D,trading,640,300,45,30,520,14
+Peer E,trading,3100,700,75,40,2900,18
+Peer F,trading,1200,450,105,80,950,45
+Deal 1,transaction,560,210,48,,,
+Deal 2,transaction,1300,480,110,,,
+Deal 3,transaction,780,320,64,,,
